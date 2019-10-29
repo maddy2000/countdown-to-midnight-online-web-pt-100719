@@ -12,4 +12,4 @@ end
 
 def countdown_with_sleep (countdown)
   while countdown > 0 
-  
+  sleep.1 sec
